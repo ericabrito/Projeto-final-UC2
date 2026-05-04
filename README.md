@@ -13,8 +13,15 @@ NO INICIO DO APLICATIVO, APARECE UM VÍDEO DE UM DOS FILMES QUE TEMOS!
 ---
 
 <img width="1894" height="877" alt="Captura de tela 2026-05-04 163739" src="https://github.com/user-attachments/assets/bc65c9d6-3da7-4af4-b663-effa6998f1bd" />
+
+---
+RESUMO DOS FILMES
+<img width="1781" height="487" alt="Captura de tela 2026-05-04 165427" src="https://github.com/user-attachments/assets/567bf001-218c-4d63-9fc5-bb06e9ac3720" />
+
+---
 <img width="1897" height="751" alt="Captura de tela 2026-05-04 163800" src="https://github.com/user-attachments/assets/9d1a6613-c0da-491e-983d-700cb47a64ce" />
 <img width="1878" height="902" alt="Captura de tela 2026-05-04 163845" src="https://github.com/user-attachments/assets/0ce415e3-b420-4265-a692-e761946ee2b5" />
+
 
 ## ✅ Objetivo
 - Trabalhar **condicionais (if)**
